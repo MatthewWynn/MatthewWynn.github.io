@@ -1,0 +1,40 @@
+/*
+font-family: 'Cinzel', serif;
+font-family: 'Jost', sans-serif;
+*/
+figcaption{
+    color:silver;
+    font-size:small;
+    font-family:'Jost', sans-serif;
+    font-weight:400;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  .wiki {
+      width:150px;
+      margin-left:70px;
+  }
+  h1{
+      font-family:'Cinzel',serif;
+      font-weight:800;
+      margin-left:70px;
+      color:navy;
+  }
+  p{
+font-family:'Jost', sans-serif;
+font-weight: 300;
+color:black;
+  }
+  ul,
+  li{
+      font-family: 'Jost',sans-serif;
+      color:black;
+  }
+  h6{
+      font-family:'Cinzel',serif;
+      font-weight:300;
+  }
