@@ -1,0 +1,27 @@
+/*font-family: 'Andada Pro', serif;
+font-family: 'Gluten', cursive;
+*/
+img{
+    max-width: 500px;
+}
+
+.logo{
+    width:100px;
+}
+h1{
+	font-family: 'Gluten',cursive;
+	color:#0000FF;
+    font-size:50px;
+
+}
+h2{
+    font-family:'Gluten', cursive;
+    font-size:1.5em;
+    text-transform: uppercase;
+    font-weight:500;
+    font: size 20px;
+
+}
+p{
+    font-family:'Andada Pro', serif;
+}
