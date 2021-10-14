@@ -1,0 +1,41 @@
+/*font-family: 'Rampart One', cursive;
+font-family: 'Volkhov', serif;*/
+
+h1{
+    color:blue;
+    font-family:'Rampart One', cursive;
+}
+.center
+{
+    text-align:center;
+}
+
+iframe{
+    display: block;
+margin: 0 auto;
+}
+h3{
+    color:rgb(123, 123, 255);
+    font-family:'Rampart One',cursive;
+}
+p{
+    font-family:'Volkhov',serif;
+    font-weight:400;
+}
+.black
+{
+    color:black;
+    text-align:center;
+}
+figcaption{
+    color:silver;
+    text-align:center;
+    font-family:'Volkhov', serif;
+}
+
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
