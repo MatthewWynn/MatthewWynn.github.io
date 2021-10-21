@@ -39,3 +39,17 @@ figcaption{
     margin-right: auto;
     width: 50%;
   }
+  .imgcentersmall{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+  li{
+    font-family:'Volkhov',serif;
+    font-weight:400;
+  }
+  h4{
+    color:rgb(173, 173, 255);
+    font-family:'Rampart One',cursive;
+  }
