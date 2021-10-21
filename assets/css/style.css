@@ -1,10 +1,18 @@
 /*font-family: 'Rampart One', cursive;
-font-family: 'Volkhov', serif;*/
+font-family: 'Volkhov', serif;
+font-family: 'Open Sans', sans-serif;*/
 
 h1{
     color:blue;
     font-family:'Rampart One', cursive;
+    font-size: 5em;
 }
+@media(max-width:450px){
+    h1{
+        font-size:2em;
+    }
+}
+
 .center
 {
     text-align:center;
@@ -19,7 +27,7 @@ h3{
     font-family:'Rampart One',cursive;
 }
 p{
-    font-family:'Volkhov',serif;
+    font-family:'Open Sans',sans-serif;
     font-weight:400;
 }
 .black
@@ -30,7 +38,7 @@ p{
 figcaption{
     color:silver;
     text-align:center;
-    font-family:'Volkhov', serif;
+    font-family:'Open Sans',sans-serif;
 }
 
 .imgcenter {
@@ -46,10 +54,22 @@ figcaption{
     width: 25%;
   }
   li{
-    font-family:'Volkhov',serif;
+    font-family:'Open Sans',sans-serif;
     font-weight:400;
   }
   h4{
     color:rgb(173, 173, 255);
     font-family:'Rampart One',cursive;
+  }
+  .imgcenterbig{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+  .imgsmall{
+    width: 25%;
+  }
+  .left{
+      text-align: left;
   }
