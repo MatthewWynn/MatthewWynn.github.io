@@ -91,3 +91,9 @@ a.firstlinks{
 a.firstlinks:hover{
     color:#A8FF00;
 }
+@media (max-width:922px)
+    {
+        img{
+            max-width:200px;
+        }
+    }
