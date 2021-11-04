@@ -21,7 +21,7 @@ h1{
  font-weight:700;
  font-family:'Montserrat', sans-serif;
 }
-.shadow{
+.gshadow{
     box-shadow:10px 7px #A8FF00;
 
 }
@@ -50,6 +50,7 @@ figcaption{
     font-size:.8em;
     font-style:italic;
     color:#8e8e8e;
+    padding-top:10px;
 }
 a.black{
     font-family:'Roboto Mono',monospace;
