@@ -53,9 +53,12 @@ figcaption{
 }
 a.black{
     font-family:'Roboto Mono',monospace;
-    line-height:1.5em;
     color:white;
     background-color:black;
+    font-weight:500;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration:none;
 }
 p.center{
     font-family:'Roboto Mono',monospace;
@@ -64,3 +67,18 @@ p.center{
 }
 
 div.pad {padding-top:70px;}
+
+p.chart{
+    font-family:'Roboto Mono',monospace;
+list-style-type: none;
+    font-size: 0.8em;
+}
+p.footer{
+    font-family:'Roboto Mono',monospace;
+    font-size:0.8em;
+}
+footer{
+   border-top-style:dashed;
+   border-top-color:#8e8e8e;
+   border-top-width:.2em;
+}
