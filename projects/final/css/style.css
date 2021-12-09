@@ -95,6 +95,7 @@ p.graphs{
     font-family:'Roboto Mono',monospace;
     line-height:1.5em;
     padding-top:200px;
+    padding-left:20px;
 }
 @media (max-width:922px)
     {
