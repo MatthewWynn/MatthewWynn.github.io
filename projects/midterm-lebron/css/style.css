@@ -97,3 +97,8 @@ a.firstlinks:hover{
             max-width:200px;
         }
     }
+    p.graphs{
+        font-family:'Roboto Mono',monospace;
+        line-height:1.5em;
+        padding-top:160px;
+    }

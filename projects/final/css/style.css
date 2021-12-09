@@ -1,12 +1,14 @@
 
-
+/*font-family: 'Montserrat', sans-serif; may not use this one though
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;*/
 nav img{
     margin:0 auto;
 }
 h1{
  font-size:4em;
  font-weight:700;
- font-family:'Montserrat', sans-serif;
+ font-family:'Roboto', sans-serif;
 }
 .rshadow{
     box-shadow:10px 7px #680000;
@@ -23,7 +25,7 @@ p{
 
 p.red{
     font-size: 0.9em;
-    color:#c00000;
+    color:#ff0000;
     font-style: italic;
     display:inline-block;
 
@@ -88,6 +90,11 @@ img.center{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+p.graphs{
+    font-family:'Roboto Mono',monospace;
+    line-height:1.5em;
+    padding-top:200px;
 }
 @media (max-width:922px)
     {
