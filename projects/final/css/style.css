@@ -103,3 +103,10 @@ p.graphs{
             max-width:200px;
         }
     }
+
+    p.footer{
+        text-align:center;
+        font-family:"Roboto Mono", monospace;
+        font-weight:200;
+        color:#8e8e8e;
+    }
