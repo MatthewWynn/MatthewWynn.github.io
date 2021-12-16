@@ -104,7 +104,7 @@ and (device-height : 812px)
 and (-webkit-device-pixel-ratio : 3) { 
     
         img{
-            max-width:200px;
+            max-width:500px;
         }
 }
 
