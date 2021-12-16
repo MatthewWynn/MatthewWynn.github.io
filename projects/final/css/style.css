@@ -97,6 +97,11 @@ p.graphs{
     padding-top:120px;
     padding-left:20px;
 }
+.responsiveimg {
+    max-width: 100%;
+    height: auto;
+  }
+
 @media (max-width:922px)
     {
         img{
