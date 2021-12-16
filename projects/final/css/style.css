@@ -97,17 +97,16 @@ p.graphs{
     padding-top:120px;
     padding-left:20px;
 }
-.responsiveimg {
-    max-width: 100%;
-    height: auto;
-  }
 
-@media (max-width:922px)
-    {
+@media only screen 
+and (device-width : 375px) 
+and (device-height : 812px) 
+and (-webkit-device-pixel-ratio : 3) { 
+    
         img{
             max-width:200px;
         }
-    }
+}
 
     p.footer{
         text-align:center;
