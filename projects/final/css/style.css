@@ -75,7 +75,7 @@ footer{
         position: absolute;
         width:100%;
         border-top: solid rgba(255, 0, 0, 0.5);
-        box-shadow: 3px 4px 5 px 6px #000;
+        box-shadow: 3px 4px 5 px 6px;
 }
 a.firstlinks{
     color:rgba(2, 0, 0, 0.788);
