@@ -12,3 +12,10 @@ body{
 {
     text-align:center;
 }
+
+.writing
+{
+    padding-left:50px;
+    padding-right:50px;
+    line-height:2.0;
+}
