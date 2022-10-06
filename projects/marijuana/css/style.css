@@ -1,0 +1,174 @@
+/* STRUCTURAL ELEMENTS */
+html {
+    scroll-behavior: smooth;
+  }
+  
+  BODY {
+    font-family: 'Source Serif Pro', serif;
+    font-size:1em;
+  }
+  
+  .container {
+    text-align:center;
+  }
+  
+  .bg-dark {
+    background-color: #000 !important;
+  }
+  
+  .hero-container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .toc-container {
+    position: relative;
+    text-align: center;
+    color: white;
+    width:200px;
+    margin:10px;
+    padding:0px;
+  }
+  
+  .toc-text{
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Poppins', sans-serif;
+    font-size:.85em;
+    color:#000;
+    width:100%;
+    min-height:50px;
+    opacity:.7;
+    background-color: #fff;
+    padding:5px;
+  }
+  
+  .embed-container {
+    width:100%;
+    padding: 25px;
+  }
+  
+  .navbar {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .footer {
+    background: #000;
+    height:100px;
+    min-height: 100px;
+    padding-top:25px;
+    margin-top:100px;
+  }
+  
+  
+  /* Nav Bar styles */
+  
+  #nav-logo {
+    width:100%;
+    max-width:1000px;
+    margin:0 auto;
+  }
+  
+  #logo {
+    width:250px;
+  }
+  
+  
+  /* LINK STYLES */
+  
+  a:link {
+    color:#991b1e;
+      text-decoration:none;
+  }
+  
+  a:hover {
+    color:#999999;
+    text-decoration:underline;
+  }
+  
+  a:visited {
+    color:#991b1e;
+    text-decoration:none;
+  }
+  
+  a:active {
+    color:#991b1e;
+    text-decoration:none;
+  }
+  
+  a:link.toc-link {color:#000;}
+  
+  a:visited.toc-link {color:#000;}
+  
+  
+  
+  /* IMAGES */
+  
+  .stack-image {
+    width:100%;
+    max-width:900px;
+    margin:0 auto;
+    padding-top:30px;
+  }
+  
+  
+  
+  /* TYPOGRAPHY */
+  
+  
+  .hed {
+    font-size:3em;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  p{
+    text-align:left;
+    line-height:180%;
+    font-family: 'Source Serif Pro', serif;
+    font-size:1em;
+  }
+  
+  .byline {
+    font-size:1em;
+    text-transform:uppercase;
+    margin-top:-10px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .caption {
+    width:100%;
+    max-width:900px;
+    margin:0 auto;
+    padding-bottom:30px;
+    font-family: 'Poppins', sans-serif;
+    color:#999;
+  }
+  
+  .footer p {
+    font-family: 'Poppins', sans-serif;
+    color: #fff
+  }
+  
+  
+  /* RESPONSIVE */
+  
+  @media(max-width:550px) {
+    p {
+      padding-left:20px;
+      padding-right:10px;
+    }
+  
+  
+    .hed {
+      font-size:2em;
+    }
+  
+  
+  }
+  
+  
+  
+  
