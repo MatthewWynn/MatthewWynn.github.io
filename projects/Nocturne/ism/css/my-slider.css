@@ -518,7 +518,12 @@ p.ism-badge a.ism-link:hover {
   text-align: center;
 }
 
-#myContainer{
+.myContainer{
   zoom: 0.5;
   -moz-transform: scale(0.5);
+}
+
+div{
+  padding-left: 2px;
+  padding-right: 2px;
 }
