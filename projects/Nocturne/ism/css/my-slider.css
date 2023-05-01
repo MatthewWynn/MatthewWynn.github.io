@@ -523,3 +523,7 @@ p.ism-badge a.ism-link:hover {
   -moz-transform: scale(0.5);
 }
 
+h1{
+  background-color: #000;
+  color:#fff;
+}
