@@ -516,7 +516,8 @@ p.ism-badge a.ism-link:hover {
 
 .center{
   text-align: center;
-  
+  padding-left: 12px;
+  padding-right: 12px;
 }
 
 .myContainer{
@@ -546,4 +547,6 @@ h2{
 p{
   font-family:'Playfair Display', serif;
   font-size:large;
+  padding-left: 12px;
+  padding-right: 12px;
 }
